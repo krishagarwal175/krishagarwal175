@@ -83,3 +83,24 @@ Check out the repos below — they reflect what I actually build.
 ---
 
 > I don't just write code — I build systems that have to survive reality.
+
+---
+
+##  GitHub Stats
+![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishagarwal175&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishagarwal175&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=krishagarwal175&theme=tokyonight)
+
+---
+
+##  Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux)
+![Jetson](https://img.shields.io/badge/NVIDIA-Jetson-green)
+![Robotics](https://img.shields.io/badge/Domain-Robotics-blue)
+![Computer Vision](https://img.shields.io/badge/Domain-Computer%20Vision-orange)
