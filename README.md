@@ -68,7 +68,7 @@ I care more about:
 
 ---
 
-##  Current Focus
+## Current Focus
 
 * Perception-driven robotics
 * Better control strategies for legged systems
@@ -76,7 +76,7 @@ I care more about:
 
 ---
 
-##  Pinned Projects
+## Pinned Projects
 
 Check out the repos below — they reflect what I actually build.
 
@@ -86,16 +86,13 @@ Check out the repos below — they reflect what I actually build.
 
 ---
 
-##  GitHub Stats
-![Krish's GitHub stats](https://github-readme-stats.vercel.app/api?username=krishagarwal175&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krishagarwal175&layout=compact&theme=tokyonight)
+## GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=krishagarwal175&theme=tokyonight)
 
 ---
 
-##  Tech Stack
+## Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv)
